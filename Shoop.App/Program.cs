@@ -36,13 +36,13 @@ void CreateProduct()
     string Name = GetProduct(Console.ReadLine());
 
     Console.WriteLine("add price:");
-    int Price = int.Parse(Console.ReadLine());
+    int Price = int.Parse(GetProduct(Console.ReadLine()));
 
     Console.WriteLine("add category:");
     string Category = GetProduct(Console.ReadLine());
 
     Console.WriteLine("add stockCount:");
-    int StockCount = int.Parse(Console.ReadLine());
+    int StockCount = int.Parse(GetProduct(Console.ReadLine()));
 
     Product product = new Product(Name, Price, Category, StockCount);
     Array.Resize(ref products, products.Length + 1);

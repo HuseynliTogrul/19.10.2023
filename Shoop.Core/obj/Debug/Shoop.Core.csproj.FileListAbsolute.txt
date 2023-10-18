@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\bin\Debug\Shoop.Core.dll
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\bin\Debug\Shoop.Core.pdb
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\obj\Debug\Shoop.Core.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\obj\Debug\Shoop.Core.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\obj\Debug\Shoop.Core.csproj.CopyComplete
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\obj\Debug\Shoop.Core.dll
+C:\Users\acer\Desktop\Shoop.App\Shoop.Core\obj\Debug\Shoop.Core.pdb
